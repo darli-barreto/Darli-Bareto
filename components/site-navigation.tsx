@@ -30,7 +30,7 @@ export function SiteNavigation() {
           className="inline-flex items-center gap-[7px] tracking-[-0.4px] hover:text-(--accent)"
         >
           <span className="text-[22px] font-medium md:text-[25px]" aria-hidden="true">✳</span>
-          DARLI–BARRETO
+          DARLI BARRETO
           <sup className="-ml-1.5 self-start pt-[9px] text-[8px]">™</sup>
         </Link>
         <nav aria-label="Navegación principal" className="flex items-center gap-3 md:gap-8">

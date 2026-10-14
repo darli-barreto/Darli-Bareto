@@ -1,5 +1,5 @@
 export const contactEmail = "mailto:darlhybarreto@gmail.com";
-export const cvPath = "/Darli-Barreto-CV.pdf";
+export const cvPath = "/CV-Darli-Barreto.pdf";
 
 export const navigationLinks = [
   { label: "Proyectos", href: "/#proyectos", symbol: "01", external: false },
